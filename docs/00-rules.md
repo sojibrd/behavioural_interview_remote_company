@@ -14,7 +14,7 @@
 
 1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — `behavioural-how-many-paths.md`, `after-getting-response/05-behavioral-round.md`
-3. `switch_remote_company_in_6_month/` — ঐ plan-এর দিন ০০৬–১৫৪-এর story-র কাজ; এই সাইটের দিন = plan-এর দিন − ৫
+3. `switch_in_6_month_remote_company/` — ঐ plan-এর দিন ০০৬–১৫৪-এর story-র কাজ; এই সাইটের দিন = plan-এর দিন − ৫
 4. এই ফোল্ডার — `docs/`; আর `guide/` = `behavioural_interview`-এর ২৫টা ডক হুবহু
 
 **স্বাধীন পথ।** বাকি দুই পথ আলাদা সাইটে — [`behavioural_interview_local_company`](https://sojibrd.github.io/behavioural_interview_local_company/), [`behavioural_interview_global_company`](https://sojibrd.github.io/behavioural_interview_global_company/)। প্রতিটা শূন্য থেকে শুরু; এই সাইট শেষ করা ওদের শর্ত নয়। তিন পথেই ছয়টা story, পথ বদলালে বদলায় জোর — লোকালে কোম্পানির ধরন, রিমোটে লিখে বোঝানো আর ইংরেজি, গ্লোবালে ফলের সংখ্যা আর follow-up-এর গভীরতা।

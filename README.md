@@ -1,6 +1,6 @@
 # behavioural_interview_remote_company
 
-বাংলাদেশে বসে বিদেশি রিমোট কোম্পানির behavioural প্রশ্নের প্রস্তুতি: ছয়টা STAR story ইংরেজিতে, একটা লিখে বোঝানো নিয়ে, ৯০ সেকেন্ডে জোরে বলা, আর যেকোনো প্রশ্নে খাটানো — তিন দরজার (remote-first, Ember কোডবেস, ভেটিং/কন্ট্রাক্ট) জোর বুঝে। `switch_remote_company_in_6_month`-এর story-র কাজ দিন ধরে এখানে সরানো (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫) — plan-এ থাকে শুধু ঘর আর লিংক, রোজের ইংরেজি আর mock interview plan-এই। সাথে `behavioural_interview`-এর ২৫টা ডক, এই সাইটেই।
+বাংলাদেশে বসে বিদেশি রিমোট কোম্পানির behavioural প্রশ্নের প্রস্তুতি: ছয়টা STAR story ইংরেজিতে, একটা লিখে বোঝানো নিয়ে, ৯০ সেকেন্ডে জোরে বলা, আর যেকোনো প্রশ্নে খাটানো — তিন দরজার (remote-first, Ember কোডবেস, ভেটিং/কন্ট্রাক্ট) জোর বুঝে। `switch_in_6_month_remote_company`-এর story-র কাজ দিন ধরে এখানে সরানো (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫) — plan-এ থাকে শুধু ঘর আর লিংক, রোজের ইংরেজি আর mock interview plan-এই। সাথে `behavioural_interview`-এর ২৫টা ডক, এই সাইটেই।
 
 এটা তিনটা স্বাধীন পথের একটা — [লোকাল](https://sojibrd.github.io/behavioural_interview_local_company/) আর [গ্লোবাল](https://sojibrd.github.io/behavioural_interview_global_company/) আলাদা সাইট, প্রতিটা শূন্য থেকে শুরু। তিন পথেই ছয়টা story; পথ বদলালে বদলায় জোর।
 
@@ -47,7 +47,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_remote_company_in_6_month/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_in_6_month_remote_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
 
 ### ব্লক ফাইলের ছাঁচ
 
