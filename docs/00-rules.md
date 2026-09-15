@@ -13,7 +13,7 @@
 এই সাইট নতুন কোনো লক্ষ্য, সংখ্যা বা কাজ যোগ করে না — plan-এর story-র কাজ হুবহু এখানে সরানো। তথ্য বদলালে এই ক্রমে:
 
 1. `brainstorming/ASSUMPTIONS.md`
-2. `brainstorming/` — `behavioural-how-many-paths.md`, `after-getting-response/05-behavioral-round.md`
+2. `brainstorming/` — `behavioural.md`, `application-to-offer.md` (ধাপ ৫ — Behavioral রাউন্ড)
 3. `switch_in_6_month_remote_company/` — ঐ plan-এর দিন ০০৬–১৫৪-এর story-র কাজ; এই সাইটের দিন = plan-এর দিন − ৫
 4. এই ফোল্ডার — `docs/`; আর `guide/` = `behavioural_interview`-এর ২৫টা ডক হুবহু
 

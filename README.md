@@ -47,7 +47,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural-how-many-paths.md`) → `switch_in_6_month_remote_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`behavioural.md`) → `switch_in_6_month_remote_company/docs/` → এই ফোল্ডার। সাইটের দিন = plan-এর দিন − ৫ — plan-এর story-র ঘর আর এই সাইটের দিন একসাথে বদলান।
 
 ### ব্লক ফাইলের ছাঁচ
 
