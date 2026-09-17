@@ -10,6 +10,7 @@ story-র দিনভিত্তিক তিন সাইটের একট�
 - Progress চার key (`start`, `task`, `check`, `review`) — একমাত্র `app/hooks/useProgress.ts` দিয়ে। নোটের ঘর নেই, ইচ্ছাকৃত।
 - `app/lib/plan.ts` আর `app/lib/guide.ts` server-only।
 - **Theme contract অলঙ্ঘনীয়**, সাইট **dark-only**।
+- **Cross-device sync (২০২৬-০৯-১৮, তিন repo-তেই)** — localStorage সবসময় primary (offline-এ পুরোপুরি কাজ করে); sync key বসানো থাকলে `app/hooks/useSync.ts` background-এ একটা শেয়ার্ড Supabase project-এ push/pull করে (`app/lib/supabase.ts`, স্কিমা `supabase/schema.sql`)। Conflict resolution: পুরো blob-এর last-write-wins, `<prefix>:v1:meta`-এর `updatedAt` দিয়ে। Sync key auth-less — random UUID, `sync:v1:key` (prefix ছাড়া, origin-শেয়ার্ড, `dsa_prep_*`-সহ পুরো workspace-এর একই key কাজ করে)। GitHub Actions build-এ `SUPABASE_URL`/`SUPABASE_ANON_KEY` repo secret লাগে। প্যাটার্নটা `dsa_prep_local_company`-তে pilot হিসেবে real browser + real Supabase project দিয়ে end-to-end validate করা হয়েছে।
 
 <!-- BEGIN:nextjs-agent-rules -->
 
